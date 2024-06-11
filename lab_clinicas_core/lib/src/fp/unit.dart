@@ -1,0 +1,9 @@
+//Classe de representação de ausência de valor
+final class Unit {
+  @override
+  String toString() {
+    return 'Unit{}';
+  }
+}
+
+Unit get unit => Unit();
