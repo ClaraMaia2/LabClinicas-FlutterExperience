@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "../../../../../../lab_clinicas_api"
+        },
+        {
+            "path": "../../../../../../lab_clinicas_core"
+        },
+        {
+            "path": "../../../../.."
+        },
+        {
+            "path": "../../../../../../lab_clinicas_desktop"
+        }
+    ]
+}
