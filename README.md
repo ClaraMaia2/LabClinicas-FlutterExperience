@@ -24,3 +24,11 @@ Or you can [download](https://github.com/ClaraMaia2/LabClinicas-FlutterExperienc
 ## 🏃Running
 
 To run this application, use an android emulator ([Android Studio](https://developer.android.com/studio?hl=pt-br)) or your desktop.
+
+## 📜 License
+
+This project is for learning purposes only and is not intended for production use. Feel free to explore and learn from it!
+
+## ⭐ If you found this project helpful, consider giving it a star!
+
+<br>
